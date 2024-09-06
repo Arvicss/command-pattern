@@ -54,8 +54,6 @@ public class Main {
 
             boolean functionStopper = false;
             do {
-
-
                 switch(applianceSelect) {
                     case 1:
                         // Light
